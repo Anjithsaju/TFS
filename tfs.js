@@ -1,6 +1,6 @@
 
 const btn1=document.getElementById('b1');
-btn1.addEventListener('click',e=>{location.replace('tfs.html');});
+btn1.addEventListener('click',e=>{location.replace('index.html');});
 const btn2=document.getElementById('b2');
 btn2.addEventListener('click',e=>{location.replace('tfsgall.html');});
 const btn3=document.getElementById('b3');
