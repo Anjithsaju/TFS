@@ -1,0 +1,64 @@
+body{
+    background: url(images/p1.jpg);
+    background-size: cover;
+    background-position: center;
+    
+    min-height:100vh;
+    
+    animation: change 30s infinite;
+}
+.logo{
+    height: 48px;
+    border-radius: 50px;
+    margin-right: 273px;
+    margin-left: 37px;
+    margin-top: 5px;
+   
+}
+
+
+.btn
+{
+    float: left;
+    height: 33px;
+    width: 140px;
+    margin: 29px;
+    
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-weight: 800;
+    font-family: monospace;
+    border-style: none;
+    border-radius: 20px;
+     background: white; 
+     margin-bottom: 20px;
+}
+.btn:hover
+{
+    background: yellow;
+height: 30px;
+
+}
+#b1
+{
+    background-color: yellow;
+    border-bottom:3px solid #222;
+}
+.head
+{
+   
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  
+}
+img
+{      margin-left: 212px;
+    margin-top: 31px;
+}
+h1{
+    font-size: 79px;
+    margin-left: 392px;
+    margin-top: -118px;
+    color: white;
+}
